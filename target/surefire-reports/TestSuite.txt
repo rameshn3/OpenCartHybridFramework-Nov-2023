@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 34, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 589.29 sec <<< FAILURE! - in TestSuite
+performProductSearchTest(com.qa.opencart.testcase.MyAccountPageTest)  Time elapsed: 6.177 sec  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+	at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+
+performProductSearchTest(com.qa.opencart.testcase.MyAccountPageTest)  Time elapsed: 6.27 sec  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+	at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+
+performProductSearchTest(com.qa.opencart.testcase.MyAccountPageTest)  Time elapsed: 6.266 sec  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+	at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+

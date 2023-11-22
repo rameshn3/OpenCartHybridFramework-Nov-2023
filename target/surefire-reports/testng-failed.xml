@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [openCartSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.qa.opencart.listeners.ExtentReportListener"/>
+    <listener class-name="com.qa.opencart.listeners.TestAllureListener"/>
+  </listeners>
+  <test thread-count="5" name="openCartTest(failed)" verbose="0">
+    <classes>
+      <class name="com.qa.opencart.testcase.MyAccountPageTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="commonTearDown"/>
+          <include name="beforeClass"/>
+          <include name="performProductSearchTest" invocation-numbers="0 1 2"/>
+          <include name="commonSetUp"/>
+        </methods>
+      </class> <!-- com.qa.opencart.testcase.MyAccountPageTest -->
+    </classes>
+  </test> <!-- openCartTest(failed) -->
+</suite> <!-- Failed suite [openCartSuite] -->

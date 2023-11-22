@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="34" passed="31" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T18:46:09 MST" name="openCartSuite" finished-at="2023-11-19T18:55:55 MST" duration-ms="586300">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T18:46:09 MST" name="openCartTest" finished-at="2023-11-19T18:55:55 MST" duration-ms="586300">
+      <class name="com.qa.opencart.testcase.HomePageTest">
+        <test-method is-config="true" signature="commonSetUp(java.lang.String)[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:10 MST" name="commonSetUp" finished-at="2023-11-19T18:46:16 MST" duration-ms="5404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:16 MST" name="beforeClass" finished-at="2023-11-19T18:46:16 MST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:16 MST" name="beforeMethod" finished-at="2023-11-19T18:46:16 MST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyOpenCartLogoTest()[pri:1, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:16 MST" name="verifyOpenCartLogoTest" description="TC_01_Verifying the opencart logo" finished-at="2023-11-19T18:46:16 MST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpenCartLogoTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="afterMethod" finished-at="2023-11-19T18:46:17 MST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="beforeMethod" finished-at="2023-11-19T18:46:17 MST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyOpenCartPageTitleTest()[pri:2, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="verifyOpenCartPageTitleTest" description="TC_02_Verifying the opencart page title" finished-at="2023-11-19T18:46:17 MST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOpenCartPageTitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="afterMethod" finished-at="2023-11-19T18:46:17 MST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="beforeMethod" finished-at="2023-11-19T18:46:17 MST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFeaturedCardsCountTest()[pri:3, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:17 MST" name="verifyFeaturedCardsCountTest" description="TC_03_Verifying the featiured section cards count" finished-at="2023-11-19T18:46:17 MST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFeaturedCardsCountTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:18 MST" name="afterMethod" finished-at="2023-11-19T18:46:18 MST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:18 MST" name="beforeMethod" finished-at="2023-11-19T18:46:18 MST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateToRegistrationPageTest()[pri:4, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:18 MST" name="navigateToRegistrationPageTest" description="TC_04_navigate to registration page" finished-at="2023-11-19T18:46:26 MST" duration-ms="8048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegistrationPageTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:26 MST" name="afterMethod" finished-at="2023-11-19T18:46:26 MST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:26 MST" name="beforeMethod" finished-at="2023-11-19T18:46:26 MST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateToLoginPageTest()[pri:5, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:26 MST" name="navigateToLoginPageTest" description="TC_05_navigate to login page" finished-at="2023-11-19T18:46:34 MST" duration-ms="7855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLoginPageTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:35 MST" name="afterMethod" finished-at="2023-11-19T18:46:35 MST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="commonTearDown()[pri:0, instance:com.qa.opencart.testcase.HomePageTest@53692008]" started-at="2023-11-19T18:46:35 MST" name="commonTearDown" finished-at="2023-11-19T18:46:35 MST" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.qa.opencart.testcase.HomePageTest -->
+      <class name="com.qa.opencart.testcase.MyAccountPageTest">
+        <test-method is-config="true" signature="commonSetUp(java.lang.String)[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:20 MST" name="commonSetUp" finished-at="2023-11-19T18:47:25 MST" duration-ms="4716" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:25 MST" name="beforeClass" finished-at="2023-11-19T18:47:38 MST" duration-ms="12896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:38 MST" name="beforeMethod" finished-at="2023-11-19T18:47:38 MST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMyAccountPageUrlTest()[pri:1, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:38 MST" name="verifyMyAccountPageUrlTest" description="TC_01_Verifying the login page Url" finished-at="2023-11-19T18:47:38 MST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountPageUrlTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:38 MST" name="beforeMethod" finished-at="2023-11-19T18:47:38 MST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMyAccountPageTitleTest()[pri:2, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:38 MST" name="verifyMyAccountPageTitleTest" description="TC_02_Verifying the my account page title" finished-at="2023-11-19T18:47:38 MST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountPageTitleTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:39 MST" name="beforeMethod" finished-at="2023-11-19T18:47:39 MST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMyAccountPageElementsTest()[pri:3, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:39 MST" name="verifyMyAccountPageElementsTest" description="TC_03_Verifying the My Account page elements" finished-at="2023-11-19T18:47:41 MST" duration-ms="2488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountPageElementsTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:42 MST" name="beforeMethod" finished-at="2023-11-19T18:47:42 MST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMyAccountMenuOptionTest()[pri:4, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:42 MST" name="verifyMyAccountMenuOptionTest" description="TC_04_Verify My account options List " finished-at="2023-11-19T18:47:44 MST" duration-ms="2272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountMenuOptionTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:44 MST" name="beforeMethod" finished-at="2023-11-19T18:47:44 MST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyMyAccountHeaderListTest()[pri:5, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:44 MST" name="verifyMyAccountHeaderListTest" description="TC_05_Verify My account Header List" finished-at="2023-11-19T18:47:44 MST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccountHeaderListTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:44 MST" name="beforeMethod" finished-at="2023-11-19T18:47:44 MST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyBrokenLinksInMyAccountPageTest()[pri:6, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:47:44 MST" name="verifyBrokenLinksInMyAccountPageTest" description="TC_06_Verify the broken links in my account page" finished-at="2023-11-19T18:48:22 MST" duration-ms="38009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinksInMyAccountPageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:23 MST" name="beforeMethod" finished-at="2023-11-19T18:48:23 MST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="performProductSearchTest(java.lang.String)[pri:7, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:23 MST" name="performProductSearchTest" description="TC_07_Perform the product search" data-provider="products" finished-at="2023-11-19T18:48:28 MST" duration-ms="5661" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MacBook]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy50.click(Unknown Source)
+at com.qa.opencart.utils.WebDriverUtils.click(WebDriverUtils.java:215)
+at com.qa.opencart.pages.MyAccountPage.doProductSearch(MyAccountPage.java:131)
+at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performProductSearchTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:29 MST" name="beforeMethod" finished-at="2023-11-19T18:48:29 MST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="performProductSearchTest(java.lang.String)[pri:7, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:29 MST" name="performProductSearchTest" description="TC_07_Perform the product search" data-provider="products" finished-at="2023-11-19T18:48:35 MST" duration-ms="5737" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iMac]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy50.click(Unknown Source)
+at com.qa.opencart.utils.WebDriverUtils.click(WebDriverUtils.java:215)
+at com.qa.opencart.pages.MyAccountPage.doProductSearch(MyAccountPage.java:131)
+at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performProductSearchTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:35 MST" name="beforeMethod" finished-at="2023-11-19T18:48:35 MST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="performProductSearchTest(java.lang.String)[pri:7, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:35 MST" name="performProductSearchTest" description="TC_07_Perform the product search" data-provider="products" finished-at="2023-11-19T18:48:41 MST" duration-ms="5671" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" class="btn btn-default btn-lg" style="border: solid 2px white">...</button> is not clickable at point (994, 84). Other element would receive the click: <a href="http://rameshqaonline.lovestoblog.com/index.php?route=account/order">...</a>
+  (Session info: chrome=119.0.6045.160)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.19'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d9b829153408fc6b3188ff558aefe48, clickElement {id=BD75F60491F3C8023F5E5B036F890130_element_227}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 119.0.6045.160, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\rames\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62404}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62404/devtoo..., se:cdpVersion: 119.0.6045.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d9b829153408fc6b3188ff558aefe48)] -> css selector: button[class='btn btn-default btn-lg']]
+Session ID: 1d9b829153408fc6b3188ff558aefe48
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:224)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+at jdk.internal.reflect.GeneratedMethodAccessor26.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy50.click(Unknown Source)
+at com.qa.opencart.utils.WebDriverUtils.click(WebDriverUtils.java:215)
+at com.qa.opencart.pages.MyAccountPage.doProductSearch(MyAccountPage.java:131)
+at com.qa.opencart.testcase.MyAccountPageTest.performProductSearchTest(MyAccountPageTest.java:83)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performProductSearchTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:42 MST" name="beforeMethod" finished-at="2023-11-19T18:48:42 MST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logoutTest()[pri:8, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:42 MST" name="logoutTest" description="TC_08_Logout test" finished-at="2023-11-19T18:48:50 MST" duration-ms="8052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="commonTearDown()[pri:0, instance:com.qa.opencart.testcase.MyAccountPageTest@131fcb6f]" started-at="2023-11-19T18:48:50 MST" name="commonTearDown" finished-at="2023-11-19T18:48:50 MST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.qa.opencart.testcase.MyAccountPageTest -->
+      <class name="com.qa.opencart.testcase.LoginPageTest">
+        <test-method is-config="true" signature="commonSetUp(java.lang.String)[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:35 MST" name="commonSetUp" finished-at="2023-11-19T18:46:39 MST" duration-ms="4220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:39 MST" name="beforeClass" finished-at="2023-11-19T18:46:44 MST" duration-ms="4987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="beforeMethod" finished-at="2023-11-19T18:46:44 MST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginPageUrlTest()[pri:1, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="verifyLoginPageUrlTest" description="TC_01_Verifying the login page Url" finished-at="2023-11-19T18:46:44 MST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageUrlTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="beforeMethod" finished-at="2023-11-19T18:46:44 MST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginPageTitleTest()[pri:2, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="verifyLoginPageTitleTest" description="TC_02_Verifying the login page title" finished-at="2023-11-19T18:46:44 MST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="beforeMethod" finished-at="2023-11-19T18:46:44 MST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLoginPageElementsTest()[pri:3, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:44 MST" name="verifyLoginPageElementsTest" description="TC_03_Verifying the Login page elements" finished-at="2023-11-19T18:46:45 MST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageElementsTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:45 MST" name="beforeMethod" finished-at="2023-11-19T18:46:45 MST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateToRegistrationPageTest()[pri:4, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:45 MST" name="navigateToRegistrationPageTest" description="TC_04_navigate to registration page" finished-at="2023-11-19T18:46:51 MST" duration-ms="5810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToRegistrationPageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:51 MST" name="beforeMethod" finished-at="2023-11-19T18:46:51 MST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="navigateToForgotPasswordPageTest()[pri:5, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:51 MST" name="navigateToForgotPasswordPageTest" description="TC_05_navigate to forgotPassword page" finished-at="2023-11-19T18:46:56 MST" duration-ms="5367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToForgotPasswordPageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:56 MST" name="beforeMethod" finished-at="2023-11-19T18:46:56 MST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="emptyCredLoginTest()[pri:6, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:46:56 MST" name="emptyCredLoginTest" description="TC_06_Empty credentials login test" finished-at="2023-11-19T18:47:04 MST" duration-ms="7515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyCredLoginTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:47:04 MST" name="beforeMethod" finished-at="2023-11-19T18:47:04 MST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="happypathLoginTest()[pri:7, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:47:04 MST" name="happypathLoginTest" description="TC_07_Happypath login test" finished-at="2023-11-19T18:47:12 MST" duration-ms="7818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- happypathLoginTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:47:12 MST" name="beforeMethod" finished-at="2023-11-19T18:47:12 MST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logoutTest()[pri:7, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:47:12 MST" name="logoutTest" description="TC_08_Logout test" finished-at="2023-11-19T18:47:20 MST" duration-ms="7918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="commonTearDown()[pri:0, instance:com.qa.opencart.testcase.LoginPageTest@74971ed9]" started-at="2023-11-19T18:47:20 MST" name="commonTearDown" finished-at="2023-11-19T18:47:20 MST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.qa.opencart.testcase.LoginPageTest -->
+      <class name="com.qa.opencart.testcase.ProductDetailsPageTest">
+        <test-method is-config="true" signature="commonSetUp(java.lang.String)[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:48:50 MST" name="commonSetUp" finished-at="2023-11-19T18:48:54 MST" duration-ms="4161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:48:54 MST" name="beforeClass" finished-at="2023-11-19T18:49:07 MST" duration-ms="12848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:07 MST" name="beforeMethod" finished-at="2023-11-19T18:49:07 MST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productImageTest(java.lang.String,java.lang.String,int)[pri:1, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:07 MST" name="productImageTest" description="TC_01_Verify the product image test" data-provider="productImageTestData" finished-at="2023-11-19T18:49:23 MST" duration-ms="15902" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Macbook]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MacBook Pro]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:23 MST" name="beforeMethod" finished-at="2023-11-19T18:49:23 MST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productImageTest(java.lang.String,java.lang.String,int)[pri:1, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:23 MST" name="productImageTest" description="TC_01_Verify the product image test" data-provider="productImageTestData" finished-at="2023-11-19T18:49:39 MST" duration-ms="15362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Macbook]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MacBook Air]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:39 MST" name="beforeMethod" finished-at="2023-11-19T18:49:39 MST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productImageTest(java.lang.String,java.lang.String,int)[pri:1, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:39 MST" name="productImageTest" description="TC_01_Verify the product image test" data-provider="productImageTestData" finished-at="2023-11-19T18:49:55 MST" duration-ms="15615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iMac]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iMac]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:55 MST" name="beforeMethod" finished-at="2023-11-19T18:49:55 MST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productImageTest(java.lang.String,java.lang.String,int)[pri:1, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:49:55 MST" name="productImageTest" description="TC_01_Verify the product image test" data-provider="productImageTestData" finished-at="2023-11-19T18:50:10 MST" duration-ms="15309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung SyncMaster 941BW]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:10 MST" name="beforeMethod" finished-at="2023-11-19T18:50:10 MST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="productImageTest(java.lang.String,java.lang.String,int)[pri:1, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:10 MST" name="productImageTest" description="TC_01_Verify the product image test" data-provider="productImageTestData" finished-at="2023-11-19T18:50:26 MST" duration-ms="15802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apple Cinema 30"]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImageTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:26 MST" name="beforeMethod" finished-at="2023-11-19T18:50:26 MST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ProductMetadataTest()[pri:2, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:26 MST" name="ProductMetadataTest" description="TC_02_ product_metadata Test" finished-at="2023-11-19T18:50:42 MST" duration-ms="15534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductMetadataTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:42 MST" name="doLogout" finished-at="2023-11-19T18:50:50 MST" duration-ms="7999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="commonTearDown()[pri:0, instance:com.qa.opencart.testcase.ProductDetailsPageTest@ccd1bc3]" started-at="2023-11-19T18:50:50 MST" name="commonTearDown" finished-at="2023-11-19T18:50:50 MST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.qa.opencart.testcase.ProductDetailsPageTest -->
+      <class name="com.qa.opencart.testcase.RegistrationPageTest">
+        <test-method is-config="true" signature="testDataSetup()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:46:09 MST" name="testDataSetup" finished-at="2023-11-19T18:46:10 MST" duration-ms="1148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataSetup -->
+        <test-method is-config="true" signature="commonSetUp(java.lang.String)[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:50:50 MST" name="commonSetUp" finished-at="2023-11-19T18:50:55 MST" duration-ms="4246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonSetUp -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:50:55 MST" name="beforeClass" finished-at="2023-11-19T18:50:55 MST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:50:55 MST" name="beforeMethod" finished-at="2023-11-19T18:51:00 MST" duration-ms="5350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="RegisterAccountTest()[pri:1, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:51:00 MST" name="RegisterAccountTest" description="TC_01_Register an account with faker data" finished-at="2023-11-19T18:51:47 MST" duration-ms="46740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAccountTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:51:47 MST" name="doLogout" finished-at="2023-11-19T18:51:55 MST" duration-ms="8337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:51:56 MST" name="beforeMethod" finished-at="2023-11-19T18:52:02 MST" duration-ms="5096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="registerAccountWithExcelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:52:02 MST" name="registerAccountWithExcelDataTest" description="TC_02_Register an account with excel data" data-provider="excelData" finished-at="2023-11-19T18:52:49 MST" duration-ms="47047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vandana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[senthil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3146069849]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[vandana@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithExcelDataTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:52:49 MST" name="doLogout" finished-at="2023-11-19T18:52:57 MST" duration-ms="7910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:52:57 MST" name="beforeMethod" finished-at="2023-11-19T18:53:02 MST" duration-ms="4832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="registerAccountWithExcelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:53:02 MST" name="registerAccountWithExcelDataTest" description="TC_02_Register an account with excel data" data-provider="excelData" finished-at="2023-11-19T18:53:48 MST" duration-ms="46450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jayaprakash]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6.234445593E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manju@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithExcelDataTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:53:48 MST" name="doLogout" finished-at="2023-11-19T18:53:56 MST" duration-ms="8014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:53:56 MST" name="beforeMethod" finished-at="2023-11-19T18:54:01 MST" duration-ms="5116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="registerAccountWithExcelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:54:01 MST" name="registerAccountWithExcelDataTest" description="TC_02_Register an account with excel data" data-provider="excelData" finished-at="2023-11-19T18:54:47 MST" duration-ms="46125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harshini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6303236395]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[harshini@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithExcelDataTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:54:48 MST" name="doLogout" finished-at="2023-11-19T18:54:56 MST" duration-ms="7932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:54:56 MST" name="beforeMethod" finished-at="2023-11-19T18:55:01 MST" duration-ms="4931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="registerAccountWithExcelDataTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:55:01 MST" name="registerAccountWithExcelDataTest" description="TC_02_Register an account with excel data" data-provider="excelData" finished-at="2023-11-19T18:55:47 MST" duration-ms="46554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhavana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Uppara]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.065519189E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bhavana@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAccountWithExcelDataTest -->
+        <test-method is-config="true" signature="doLogout()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:55:47 MST" name="doLogout" finished-at="2023-11-19T18:55:55 MST" duration-ms="7802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogout -->
+        <test-method is-config="true" signature="commonTearDown()[pri:0, instance:com.qa.opencart.testcase.RegistrationPageTest@4455f57d]" started-at="2023-11-19T18:55:55 MST" name="commonTearDown" finished-at="2023-11-19T18:55:55 MST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commonTearDown -->
+      </class> <!-- com.qa.opencart.testcase.RegistrationPageTest -->
+    </test> <!-- openCartTest -->
+  </suite> <!-- openCartSuite -->
+</testng-results>
